@@ -1,11 +1,11 @@
 import { Header } from "@/components/header/index";
 import * as s from "./styles";
 
-export default function Home() {
+export default function Daha() {
   return (
     <s.Main>
-      <Header Link="/daha" />
-      ola
+      <Header Link="/" />
+      oladkknkdnfdkdn
     </s.Main>
   );
 }
